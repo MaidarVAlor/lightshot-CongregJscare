@@ -15,7 +15,7 @@ window.onbeforeunload = function() {
 // Funzione per il decline button
 function declineButtonClick(event) {
     event.preventDefault();
-    window.open("https://www.bing.com/images/search?q=gatti&FORM=HDRSC3", "_blank");
+    window.open("https://www.google.com/search?q=gd+normal+face", "_blank");
 }
 
 // Funzione chiamata quando si clicca sul pulsante di accettazione
